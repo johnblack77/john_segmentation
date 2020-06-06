@@ -1,0 +1,10 @@
+*~
+*.pyc
+*.swp
+*.egg-info
+plyfile-venv/
+build/
+dist/
+.tox
+.cache
+.pytest_cache

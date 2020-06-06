@@ -1,0 +1,13 @@
+BATCH_SIZE:       5
+EPOCH:            58
+USE_GPU:          True
+LOSS:             Loss
+NUM_WORKER:       8
+CHANNAL_SIZE:     3
+HIGH_SIZE:        304
+WIDTH_SIZE:       304
+NUM_CLASS:        12
+TEST_DATA_PATN:   ../data/CamVid/test.txt
+TEST_SAVE_PATH:   ../data/testlog/
+LOAD_MODEL_PATH:  ../data/modellog/0601_10:20:31/58_0601_22:00:01.pkl
+Test_loader_len: 500
